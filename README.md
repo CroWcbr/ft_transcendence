@@ -1,1 +1,9 @@
-# ft_transcendence
+# Transcendence
+
+## Description
+
+
+## Structure
+- nginx
+- backend
+- postgresql
